@@ -1,0 +1,5 @@
+C:\Users\mybook\documents\visual studio 2013\Projects\MZ_SAP_MES\DemoDAL\bin\Debug\DemoDAL.dll
+C:\Users\mybook\documents\visual studio 2013\Projects\MZ_SAP_MES\DemoDAL\bin\Debug\DemoDAL.pdb
+C:\Users\mybook\documents\visual studio 2013\Projects\MZ_SAP_MES\DemoDAL\obj\Debug\DemoDAL.dll
+C:\Users\mybook\documents\visual studio 2013\Projects\MZ_SAP_MES\DemoDAL\obj\Debug\DemoDAL.pdb
+C:\Users\mybook\documents\visual studio 2013\Projects\MZ_SAP_MES\DemoDAL\obj\Debug\DemoDAL.csprojResolveAssemblyReference.cache

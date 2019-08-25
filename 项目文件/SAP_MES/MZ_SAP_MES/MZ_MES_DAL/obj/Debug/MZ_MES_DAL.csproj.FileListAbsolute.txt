@@ -1,0 +1,27 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\DemoDAL\bin\Debug\DemoDAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\DemoDAL\bin\Debug\DemoDAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\DemoDAL\obj\Debug\DemoDAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\DemoDAL\obj\Debug\DemoDAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\MZ_MES_DAL\bin\Debug\DemoDAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\MZ_MES_DAL\bin\Debug\DemoDAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\MZ_MES_DAL\obj\Debug\DemoDAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\MZ_MES_DAL\obj\Debug\DemoDAL.pdb
+C:\Users\mybook\Desktop\MZ_SAP_MES\MZ_MES_DAL\bin\Debug\DemoDAL.dll
+C:\Users\mybook\Desktop\MZ_SAP_MES\MZ_MES_DAL\bin\Debug\DemoDAL.pdb
+C:\Users\mybook\Desktop\MZ_SAP_MES\MZ_MES_DAL\obj\Debug\MZ_MES_DAL.csprojResolveAssemblyReference.cache
+C:\Users\mybook\Desktop\MZ_SAP_MES\MZ_MES_DAL\obj\Debug\DemoDAL.dll
+C:\Users\mybook\Desktop\MZ_SAP_MES\MZ_MES_DAL\obj\Debug\DemoDAL.pdb
+D:\开发代码\MZ_SAP_MES\MZ_MES_DAL\bin\Debug\MZ_MES_DAL.dll
+D:\开发代码\MZ_SAP_MES\MZ_MES_DAL\bin\Debug\MZ_MES_DAL.pdb
+D:\开发代码\MZ_SAP_MES\MZ_MES_DAL\obj\Debug\MZ_MES_DAL.dll
+D:\开发代码\MZ_SAP_MES\MZ_MES_DAL\obj\Debug\MZ_MES_DAL.pdb
+D:\开发代码\MZ_SAP_MES\MZ_MES_DAL\obj\Debug\MZ_MES_DAL.csprojResolveAssemblyReference.cache
+C:\Users\李玉森\Desktop\SAP_MES\MZ_SAP_MES\MZ_MES_DAL\bin\Debug\MZ_MES_DAL.dll
+C:\Users\李玉森\Desktop\SAP_MES\MZ_SAP_MES\MZ_MES_DAL\bin\Debug\MZ_MES_DAL.pdb
+C:\Users\李玉森\Desktop\SAP_MES\MZ_SAP_MES\MZ_MES_DAL\obj\Debug\MZ_MES_DAL.csprojResolveAssemblyReference.cache
+C:\Users\李玉森\Desktop\SAP_MES\MZ_SAP_MES\MZ_MES_DAL\obj\Debug\MZ_MES_DAL.dll
+C:\Users\李玉森\Desktop\SAP_MES\MZ_SAP_MES\MZ_MES_DAL\obj\Debug\MZ_MES_DAL.pdb
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_DAL\bin\Debug\MZ_MES_DAL.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_DAL\bin\Debug\MZ_MES_DAL.pdb
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_DAL\obj\Debug\MZ_MES_DAL.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_DAL\obj\Debug\MZ_MES_DAL.pdb

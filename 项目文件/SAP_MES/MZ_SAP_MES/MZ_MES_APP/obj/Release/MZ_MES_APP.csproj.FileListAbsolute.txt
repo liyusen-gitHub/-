@@ -1,0 +1,12 @@
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Release\MZ_MES_APP.exe.config
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Release\MZ_MES_APP.exe
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Release\MZ_MES_APP.pdb
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Release\log4net.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Release\MZ_MES_DAL.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Release\MZ_MES_MAIN.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Release\MZ_MES_DAL.pdb
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Release\MZ_MES_MAIN.pdb
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Release\log4net.xml
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\obj\Release\MZ_MES_APP.csprojResolveAssemblyReference.cache
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\obj\Release\MZ_MES_APP.exe
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\obj\Release\MZ_MES_APP.pdb

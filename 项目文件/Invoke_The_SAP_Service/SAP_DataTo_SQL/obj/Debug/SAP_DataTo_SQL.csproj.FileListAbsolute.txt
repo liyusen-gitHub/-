@@ -1,0 +1,7 @@
+C:\Users\李玉森\Desktop\Invoke_The_SAP_Service\SAP_DataTo_SQL\bin\Debug\SAP_DataTo_SQL.dll
+C:\Users\李玉森\Desktop\Invoke_The_SAP_Service\SAP_DataTo_SQL\bin\Debug\SAP_DataTo_SQL.pdb
+C:\Users\李玉森\Desktop\Invoke_The_SAP_Service\SAP_DataTo_SQL\obj\Debug\SAP_DataTo_SQL.dll
+C:\Users\李玉森\Desktop\Invoke_The_SAP_Service\SAP_DataTo_SQL\obj\Debug\SAP_DataTo_SQL.pdb
+C:\Users\李玉森\Desktop\Invoke_The_SAP_Service\SAP_DataTo_SQL\obj\Debug\SAP_DataTo_SQL.csprojResolveAssemblyReference.cache
+D:\工作\华磊\Invoke_The_SAP_Service\SAP_DataTo_SQL\obj\Debug\SAP_DataTo_SQL.csprojResolveAssemblyReference.cache
+D:\工作\华磊\Invoke_The_SAP_Service\SAP_DataTo_SQL\obj\Debug\SAP_DataTo_SQL.dll

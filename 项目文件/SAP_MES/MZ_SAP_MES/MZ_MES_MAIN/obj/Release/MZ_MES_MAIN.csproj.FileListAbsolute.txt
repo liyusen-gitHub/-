@@ -1,0 +1,15 @@
+D:\开发代码\MZ_SAP_MES\MZ_MES_MAIN\bin\Release\MZ_MES_MAIN.dll.config
+D:\开发代码\MZ_SAP_MES\MZ_MES_MAIN\bin\Release\MZ_MES_MAIN.dll
+D:\开发代码\MZ_SAP_MES\MZ_MES_MAIN\bin\Release\MZ_MES_MAIN.pdb
+D:\开发代码\MZ_SAP_MES\MZ_MES_MAIN\bin\Release\log4net.dll
+D:\开发代码\MZ_SAP_MES\MZ_MES_MAIN\bin\Release\log4net.xml
+D:\开发代码\MZ_SAP_MES\MZ_MES_MAIN\obj\Release\MZ_MES_MAIN.dll
+D:\开发代码\MZ_SAP_MES\MZ_MES_MAIN\obj\Release\MZ_MES_MAIN.pdb
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_MAIN\bin\Release\MZ_MES_MAIN.dll.config
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_MAIN\bin\Release\MZ_MES_MAIN.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_MAIN\bin\Release\MZ_MES_MAIN.pdb
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_MAIN\bin\Release\log4net.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_MAIN\bin\Release\log4net.xml
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_MAIN\obj\Release\MZ_MES_MAIN.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_MAIN\obj\Release\MZ_MES_MAIN.pdb
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_MAIN\obj\Release\MZ_MES_MAIN.csprojResolveAssemblyReference.cache

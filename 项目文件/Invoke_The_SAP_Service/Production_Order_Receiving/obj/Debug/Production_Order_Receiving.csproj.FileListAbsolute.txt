@@ -1,0 +1,1 @@
+C:\Users\李玉森\Desktop\Invoke_The_SAP_Service\Production_Order_Receiving\obj\Debug\Production_Order_Receiving.csprojResolveAssemblyReference.cache

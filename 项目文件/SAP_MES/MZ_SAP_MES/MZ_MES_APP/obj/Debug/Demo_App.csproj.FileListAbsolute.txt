@@ -1,0 +1,15 @@
+c:\users\mybook\documents\visual studio 2013\Projects\MZ_SAP_MES\Demo_App\bin\Debug\Demo_App.exe
+c:\users\mybook\documents\visual studio 2013\Projects\MZ_SAP_MES\Demo_App\bin\Debug\Demo_App.pdb
+c:\users\mybook\documents\visual studio 2013\Projects\MZ_SAP_MES\Demo_App\bin\Debug\Demo.dll
+c:\users\mybook\documents\visual studio 2013\Projects\MZ_SAP_MES\Demo_App\bin\Debug\Demo.pdb
+c:\users\mybook\documents\visual studio 2013\Projects\MZ_SAP_MES\Demo_App\obj\Debug\Demo_App.csprojResolveAssemblyReference.cache
+c:\users\mybook\documents\visual studio 2013\Projects\MZ_SAP_MES\Demo_App\obj\Debug\Demo_App.exe
+c:\users\mybook\documents\visual studio 2013\Projects\MZ_SAP_MES\Demo_App\obj\Debug\Demo_App.pdb
+c:\users\mybook\documents\visual studio 2013\Projects\MZ_SAP_MES\Demo_App\bin\Debug\Demo_App.exe.config
+C:\Users\mybook\documents\visual studio 2013\Projects\MZ_SAP_MES\Demo_App\bin\Debug\log4net.dll
+C:\Users\mybook\documents\visual studio 2013\Projects\MZ_SAP_MES\Demo_App\bin\Debug\log4net.xml
+C:\Users\mybook\documents\visual studio 2013\Projects\MZ_SAP_MES\Demo_App\bin\Debug\DemoDAL.dll
+C:\Users\mybook\documents\visual studio 2013\Projects\MZ_SAP_MES\Demo_App\bin\Debug\DemoDAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\Demo_App\bin\Debug\Demo_App.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\Demo_App\obj\Debug\Demo_App.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\Demo_App\obj\Debug\Demo_App.pdb

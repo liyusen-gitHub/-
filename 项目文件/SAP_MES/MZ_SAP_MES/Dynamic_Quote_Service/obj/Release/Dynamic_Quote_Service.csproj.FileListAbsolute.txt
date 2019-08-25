@@ -1,0 +1,5 @@
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\Dynamic_Quote_Service\bin\Release\Dynamic_Quote_Service.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\Dynamic_Quote_Service\bin\Release\Dynamic_Quote_Service.pdb
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\Dynamic_Quote_Service\obj\Release\Dynamic_Quote_Service.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\Dynamic_Quote_Service\obj\Release\Dynamic_Quote_Service.pdb
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\Dynamic_Quote_Service\obj\Release\Dynamic_Quote_Service.csprojResolveAssemblyReference.cache

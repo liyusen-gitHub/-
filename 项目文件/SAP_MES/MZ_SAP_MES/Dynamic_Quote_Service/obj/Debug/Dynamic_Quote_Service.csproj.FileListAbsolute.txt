@@ -1,0 +1,8 @@
+D:\开发代码\MZ_SAP_MES\Dynamic_Quote_Service\bin\Debug\Dynamic_Quote_Service.dll
+D:\开发代码\MZ_SAP_MES\Dynamic_Quote_Service\bin\Debug\Dynamic_Quote_Service.pdb
+D:\开发代码\MZ_SAP_MES\Dynamic_Quote_Service\obj\Debug\Dynamic_Quote_Service.dll
+D:\开发代码\MZ_SAP_MES\Dynamic_Quote_Service\obj\Debug\Dynamic_Quote_Service.pdb
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\Dynamic_Quote_Service\bin\Debug\Dynamic_Quote_Service.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\Dynamic_Quote_Service\bin\Debug\Dynamic_Quote_Service.pdb
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\Dynamic_Quote_Service\obj\Debug\Dynamic_Quote_Service.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\Dynamic_Quote_Service\obj\Debug\Dynamic_Quote_Service.pdb

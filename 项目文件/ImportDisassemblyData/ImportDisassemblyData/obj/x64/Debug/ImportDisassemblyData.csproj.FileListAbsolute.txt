@@ -1,0 +1,7 @@
+E:\AOA\ImportDisassemblyData\ImportDisassemblyData\bin\x64\Debug\ImportDisassemblyData.dll
+E:\AOA\ImportDisassemblyData\ImportDisassemblyData\bin\x64\Debug\ImportDisassemblyData.pdb
+E:\AOA\ImportDisassemblyData\ImportDisassemblyData\obj\x64\Debug\ImportDisassemblyData.csprojResolveAssemblyReference.cache
+E:\AOA\ImportDisassemblyData\ImportDisassemblyData\obj\x64\Debug\ImportDisassemblyData.UserControl1.resources
+E:\AOA\ImportDisassemblyData\ImportDisassemblyData\obj\x64\Debug\ImportDisassemblyData.csproj.GenerateResource.Cache
+E:\AOA\ImportDisassemblyData\ImportDisassemblyData\obj\x64\Debug\ImportDisassemblyData.dll
+E:\AOA\ImportDisassemblyData\ImportDisassemblyData\obj\x64\Debug\ImportDisassemblyData.pdb

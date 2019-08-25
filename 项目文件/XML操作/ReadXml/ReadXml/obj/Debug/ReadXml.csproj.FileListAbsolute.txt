@@ -1,0 +1,19 @@
+E:\ReadXml\ReadXml\bin\Debug\ReadXml.exe
+E:\ReadXml\ReadXml\bin\Debug\ReadXml.pdb
+E:\ReadXml\ReadXml\obj\Debug\ReadXml.csprojResolveAssemblyReference.cache
+E:\ReadXml\ReadXml\obj\Debug\ReadXml.Form1.resources
+E:\ReadXml\ReadXml\obj\Debug\ReadXml.Properties.Resources.resources
+E:\ReadXml\ReadXml\obj\Debug\ReadXml.csproj.GenerateResource.Cache
+E:\ReadXml\ReadXml\obj\Debug\ReadXml.exe
+E:\ReadXml\ReadXml\obj\Debug\ReadXml.pdb
+E:\ReadXml\ReadXml\ReadXml\obj\Debug\ReadXml.exe
+E:\ReadXml\ReadXml\ReadXml\obj\Debug\ReadXml.pdb
+E:\ReadXml\ReadXml\ReadXml\bin\Debug\ReadXml.exe
+E:\ReadXml\ReadXml\ReadXml\bin\Debug\ReadXml.pdb
+E:\ReadXml\ReadXml\ReadXml\obj\Debug\ReadXml.csprojResolveAssemblyReference.cache
+E:\ReadXml\ReadXml\ReadXml\obj\Debug\ReadXml.Form1.resources
+E:\ReadXml\ReadXml\ReadXml\obj\Debug\ReadXml.Form2.resources
+E:\ReadXml\ReadXml\ReadXml\obj\Debug\ReadXml.Properties.Resources.resources
+E:\ReadXml\ReadXml\ReadXml\obj\Debug\ReadXml.csproj.GenerateResource.Cache
+C:\Users\李玉森\Documents\WeChat Files\wxid_ifxqh4sktckq21\Files\ReadXml\ReadXml\obj\Debug\ReadXml.exe
+C:\Users\李玉森\Documents\WeChat Files\wxid_ifxqh4sktckq21\Files\ReadXml\ReadXml\obj\Debug\ReadXml.pdb

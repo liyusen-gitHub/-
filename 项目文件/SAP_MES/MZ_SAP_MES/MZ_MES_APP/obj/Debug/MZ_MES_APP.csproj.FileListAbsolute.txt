@@ -1,0 +1,70 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\Demo_App\obj\Debug\MZ_MES_APP.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\Demo_App\obj\Debug\Demo_App.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\Demo_App\obj\Debug\Demo_App.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\Demo_App\bin\Debug\Demo_App.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\Demo_App\bin\Debug\Demo_App.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\Demo_App\bin\Debug\Demo_App.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\Demo_App\bin\Debug\DemoDAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\Demo_App\bin\Debug\log4net.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\Demo_App\bin\Debug\DemoDAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\Demo_App\bin\Debug\log4net.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\Demo_App\bin\Debug\MZ_MES_MAIN.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\Demo_App\bin\Debug\MZ_MES_MAIN.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\MZ_MES_APP\bin\Debug\Demo_App.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\MZ_MES_APP\obj\Debug\Demo_App.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\MZ_MES_APP\obj\Debug\Demo_App.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\MZ_MES_APP\obj\Debug\MZ_MES_APP.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\MZ_MES_APP\bin\Debug\Demo_App.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\MZ_MES_APP\bin\Debug\Demo_App.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\MZ_MES_APP\bin\Debug\log4net.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_MAIN.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_MAIN.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MZ_SAP_MES\MZ_MES_APP\bin\Debug\log4net.xml
+C:\Users\mybook\Desktop\MZ_SAP_MES\MZ_MES_APP\bin\Debug\Demo_App.exe.config
+C:\Users\mybook\Desktop\MZ_SAP_MES\MZ_MES_APP\obj\Debug\Demo_App.exe
+C:\Users\mybook\Desktop\MZ_SAP_MES\MZ_MES_APP\obj\Debug\Demo_App.pdb
+C:\Users\mybook\Desktop\MZ_SAP_MES\MZ_MES_APP\bin\Debug\Demo_App.exe
+C:\Users\mybook\Desktop\MZ_SAP_MES\MZ_MES_APP\bin\Debug\Demo_App.pdb
+C:\Users\mybook\Desktop\MZ_SAP_MES\MZ_MES_APP\bin\Debug\DemoDAL.dll
+C:\Users\mybook\Desktop\MZ_SAP_MES\MZ_MES_APP\bin\Debug\log4net.dll
+C:\Users\mybook\Desktop\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_MAIN.dll
+C:\Users\mybook\Desktop\MZ_SAP_MES\MZ_MES_APP\bin\Debug\DemoDAL.pdb
+C:\Users\mybook\Desktop\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_MAIN.pdb
+C:\Users\mybook\Desktop\MZ_SAP_MES\MZ_MES_APP\bin\Debug\log4net.xml
+C:\Users\mybook\Desktop\MZ_SAP_MES\MZ_MES_APP\obj\Debug\MZ_MES_APP.csprojResolveAssemblyReference.cache
+D:\开发代码\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_APP.exe.config
+D:\开发代码\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_APP.exe
+D:\开发代码\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_APP.pdb
+D:\开发代码\MZ_SAP_MES\MZ_MES_APP\bin\Debug\log4net.dll
+D:\开发代码\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_DAL.dll
+D:\开发代码\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_MAIN.dll
+D:\开发代码\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_DAL.pdb
+D:\开发代码\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_MAIN.pdb
+D:\开发代码\MZ_SAP_MES\MZ_MES_APP\bin\Debug\log4net.xml
+D:\开发代码\MZ_SAP_MES\MZ_MES_APP\obj\Debug\MZ_MES_APP.csprojResolveAssemblyReference.cache
+D:\开发代码\MZ_SAP_MES\MZ_MES_APP\obj\Debug\MZ_MES_APP.exe
+D:\开发代码\MZ_SAP_MES\MZ_MES_APP\obj\Debug\MZ_MES_APP.pdb
+C:\Users\李玉森\Desktop\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_APP.exe.config
+C:\Users\李玉森\Desktop\SAP_MES\MZ_SAP_MES\MZ_MES_APP\obj\Debug\MZ_MES_APP.exe
+C:\Users\李玉森\Desktop\SAP_MES\MZ_SAP_MES\MZ_MES_APP\obj\Debug\MZ_MES_APP.pdb
+C:\Users\李玉森\Desktop\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_APP.exe
+C:\Users\李玉森\Desktop\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_APP.pdb
+C:\Users\李玉森\Desktop\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Debug\log4net.dll
+C:\Users\李玉森\Desktop\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_DAL.dll
+C:\Users\李玉森\Desktop\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_MAIN.dll
+C:\Users\李玉森\Desktop\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_DAL.pdb
+C:\Users\李玉森\Desktop\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_MAIN.pdb
+C:\Users\李玉森\Desktop\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Debug\log4net.xml
+C:\Users\李玉森\Desktop\SAP_MES\MZ_SAP_MES\MZ_MES_APP\obj\Debug\MZ_MES_APP.csprojResolveAssemblyReference.cache
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_APP.exe.config
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_APP.exe
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_APP.pdb
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Debug\log4net.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_DAL.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_MAIN.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_DAL.pdb
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Debug\MZ_MES_MAIN.pdb
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\bin\Debug\log4net.xml
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\obj\Debug\MZ_MES_APP.csprojResolveAssemblyReference.cache
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\obj\Debug\MZ_MES_APP.exe
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_APP\obj\Debug\MZ_MES_APP.pdb

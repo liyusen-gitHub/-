@@ -1,0 +1,4 @@
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_DAL\bin\Release\MZ_MES_DAL.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_DAL\bin\Release\MZ_MES_DAL.pdb
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_DAL\obj\Release\MZ_MES_DAL.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_DAL\obj\Release\MZ_MES_DAL.pdb
