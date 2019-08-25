@@ -1,0 +1,17 @@
+D:\工作\华磊\SAP_Docking_MES_App\SAP_Docking_MES_App\bin\SAP_Docking_MES_App.dll.config
+D:\工作\华磊\SAP_Docking_MES_App\SAP_Docking_MES_App\bin\SAP_Docking_MES_App.dll
+D:\工作\华磊\SAP_Docking_MES_App\SAP_Docking_MES_App\bin\SAP_Docking_MES_App.pdb
+D:\工作\华磊\SAP_Docking_MES_App\SAP_Docking_MES_App\bin\MZ_MES_MAIN.dll
+D:\工作\华磊\SAP_Docking_MES_App\SAP_Docking_MES_App\bin\SAP_DataTo_SQL.dll
+D:\工作\华磊\SAP_Docking_MES_App\SAP_Docking_MES_App\bin\SAP_DataTo_SQL.pdb
+D:\工作\华磊\SAP_Docking_MES_App\SAP_Docking_MES_App\obj\Release\SAP_Docking_MES_App.csprojResolveAssemblyReference.cache
+D:\工作\华磊\SAP_Docking_MES_App\SAP_Docking_MES_App\obj\Release\SAP_Docking_MES_App.dll
+D:\工作\华磊\SAP_Docking_MES_App\SAP_Docking_MES_App\obj\Release\SAP_Docking_MES_App.pdb
+C:\Users\91307\Desktop\工作\交接文件\接口\SAP_Docking_MES_App\SAP_Docking_MES_App\bin\SAP_Docking_MES_App.dll.config
+C:\Users\91307\Desktop\工作\交接文件\接口\SAP_Docking_MES_App\SAP_Docking_MES_App\bin\SAP_Docking_MES_App.dll
+C:\Users\91307\Desktop\工作\交接文件\接口\SAP_Docking_MES_App\SAP_Docking_MES_App\bin\SAP_Docking_MES_App.pdb
+C:\Users\91307\Desktop\工作\交接文件\接口\SAP_Docking_MES_App\SAP_Docking_MES_App\bin\SAP_DataTo_SQL.dll
+C:\Users\91307\Desktop\工作\交接文件\接口\SAP_Docking_MES_App\SAP_Docking_MES_App\bin\SAP_DataTo_SQL.pdb
+C:\Users\91307\Desktop\工作\交接文件\接口\SAP_Docking_MES_App\SAP_Docking_MES_App\obj\Release\SAP_Docking_MES_App.csprojResolveAssemblyReference.cache
+C:\Users\91307\Desktop\工作\交接文件\接口\SAP_Docking_MES_App\SAP_Docking_MES_App\obj\Release\SAP_Docking_MES_App.dll
+C:\Users\91307\Desktop\工作\交接文件\接口\SAP_Docking_MES_App\SAP_Docking_MES_App\obj\Release\SAP_Docking_MES_App.pdb

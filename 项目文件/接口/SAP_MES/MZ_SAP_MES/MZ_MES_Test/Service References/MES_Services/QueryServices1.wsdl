@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GetQueryInfoMation">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="queryString" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetQueryInfoMationResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetQueryInfoMationResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Inventory_Query">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="queryString" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Inventory_QueryResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Inventory_QueryResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="string" nillable="true" type="s:string" />
+      <s:element name="DataSet" nillable="true">
+        <s:complexType>
+          <s:sequence>
+            <s:element ref="s:schema" />
+            <s:any />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetQueryInfoMationSoapIn">
+    <wsdl:part name="parameters" element="tns:GetQueryInfoMation" />
+  </wsdl:message>
+  <wsdl:message name="GetQueryInfoMationSoapOut">
+    <wsdl:part name="parameters" element="tns:GetQueryInfoMationResponse" />
+  </wsdl:message>
+  <wsdl:message name="Inventory_QuerySoapIn">
+    <wsdl:part name="parameters" element="tns:Inventory_Query" />
+  </wsdl:message>
+  <wsdl:message name="Inventory_QuerySoapOut">
+    <wsdl:part name="parameters" element="tns:Inventory_QueryResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetQueryInfoMationHttpGetIn">
+    <wsdl:part name="queryString" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetQueryInfoMationHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="Inventory_QueryHttpGetIn">
+    <wsdl:part name="queryString" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="Inventory_QueryHttpGetOut">
+    <wsdl:part name="Body" element="tns:DataSet" />
+  </wsdl:message>
+  <wsdl:message name="GetQueryInfoMationHttpPostIn">
+    <wsdl:part name="queryString" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetQueryInfoMationHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="Inventory_QueryHttpPostIn">
+    <wsdl:part name="queryString" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="Inventory_QueryHttpPostOut">
+    <wsdl:part name="Body" element="tns:DataSet" />
+  </wsdl:message>
+  <wsdl:portType name="QueryServicesSoap">
+    <wsdl:operation name="GetQueryInfoMation">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">根据MES传过来的字符串分割构造查询数组</wsdl:documentation>
+      <wsdl:input message="tns:GetQueryInfoMationSoapIn" />
+      <wsdl:output message="tns:GetQueryInfoMationSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Inventory_Query">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">库内转移（库存地、状态、批次，物料）回传</wsdl:documentation>
+      <wsdl:input message="tns:Inventory_QuerySoapIn" />
+      <wsdl:output message="tns:Inventory_QuerySoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="QueryServicesHttpGet">
+    <wsdl:operation name="GetQueryInfoMation">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">根据MES传过来的字符串分割构造查询数组</wsdl:documentation>
+      <wsdl:input message="tns:GetQueryInfoMationHttpGetIn" />
+      <wsdl:output message="tns:GetQueryInfoMationHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Inventory_Query">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">库内转移（库存地、状态、批次，物料）回传</wsdl:documentation>
+      <wsdl:input message="tns:Inventory_QueryHttpGetIn" />
+      <wsdl:output message="tns:Inventory_QueryHttpGetOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="QueryServicesHttpPost">
+    <wsdl:operation name="GetQueryInfoMation">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">根据MES传过来的字符串分割构造查询数组</wsdl:documentation>
+      <wsdl:input message="tns:GetQueryInfoMationHttpPostIn" />
+      <wsdl:output message="tns:GetQueryInfoMationHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Inventory_Query">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">库内转移（库存地、状态、批次，物料）回传</wsdl:documentation>
+      <wsdl:input message="tns:Inventory_QueryHttpPostIn" />
+      <wsdl:output message="tns:Inventory_QueryHttpPostOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="QueryServicesSoap" type="tns:QueryServicesSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetQueryInfoMation">
+      <soap:operation soapAction="http://tempuri.org/GetQueryInfoMation" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Inventory_Query">
+      <soap:operation soapAction="http://tempuri.org/Inventory_Query" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="QueryServicesSoap12" type="tns:QueryServicesSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetQueryInfoMation">
+      <soap12:operation soapAction="http://tempuri.org/GetQueryInfoMation" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Inventory_Query">
+      <soap12:operation soapAction="http://tempuri.org/Inventory_Query" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="QueryServicesHttpGet" type="tns:QueryServicesHttpGet">
+    <http:binding verb="GET" />
+    <wsdl:operation name="GetQueryInfoMation">
+      <http:operation location="/GetQueryInfoMation" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Inventory_Query">
+      <http:operation location="/Inventory_Query" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="QueryServicesHttpPost" type="tns:QueryServicesHttpPost">
+    <http:binding verb="POST" />
+    <wsdl:operation name="GetQueryInfoMation">
+      <http:operation location="/GetQueryInfoMation" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Inventory_Query">
+      <http:operation location="/Inventory_Query" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="QueryServices">
+    <wsdl:port name="QueryServicesSoap" binding="tns:QueryServicesSoap">
+      <soap:address location="http://192.168.124.66/SAP_WebServices/QueryServices.asmx" />
+    </wsdl:port>
+    <wsdl:port name="QueryServicesSoap12" binding="tns:QueryServicesSoap12">
+      <soap12:address location="http://192.168.124.66/SAP_WebServices/QueryServices.asmx" />
+    </wsdl:port>
+    <wsdl:port name="QueryServicesHttpGet" binding="tns:QueryServicesHttpGet">
+      <http:address location="http://192.168.124.66/SAP_WebServices/QueryServices.asmx" />
+    </wsdl:port>
+    <wsdl:port name="QueryServicesHttpPost" binding="tns:QueryServicesHttpPost">
+      <http:address location="http://192.168.124.66/SAP_WebServices/QueryServices.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

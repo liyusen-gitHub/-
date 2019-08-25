@@ -1,0 +1,15 @@
+C:\Users\91307\Desktop\工作\在途物料功能\InputDeliveryPlan\ImportDisassemblyData\bin\Release\InputDeliveryPlan.dll.config
+C:\Users\91307\Desktop\工作\在途物料功能\InputDeliveryPlan\ImportDisassemblyData\bin\Release\InputDeliveryPlan.dll
+C:\Users\91307\Desktop\工作\在途物料功能\InputDeliveryPlan\ImportDisassemblyData\bin\Release\InputDeliveryPlan.pdb
+C:\Users\91307\Desktop\工作\在途物料功能\InputDeliveryPlan\ImportDisassemblyData\bin\Release\EntityFramework.dll
+C:\Users\91307\Desktop\工作\在途物料功能\InputDeliveryPlan\ImportDisassemblyData\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\91307\Desktop\工作\在途物料功能\InputDeliveryPlan\ImportDisassemblyData\bin\Release\EPPlus.dll
+C:\Users\91307\Desktop\工作\在途物料功能\InputDeliveryPlan\ImportDisassemblyData\bin\Release\EntityFramework.xml
+C:\Users\91307\Desktop\工作\在途物料功能\InputDeliveryPlan\ImportDisassemblyData\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\91307\Desktop\工作\在途物料功能\InputDeliveryPlan\ImportDisassemblyData\bin\Release\zh-Hans\EntityFramework.resources.dll
+C:\Users\91307\Desktop\工作\在途物料功能\InputDeliveryPlan\ImportDisassemblyData\obj\Release\InputDeliveryPlan.Properties.Resources.resources
+C:\Users\91307\Desktop\工作\在途物料功能\InputDeliveryPlan\ImportDisassemblyData\obj\Release\ImportDisassemblyData.UserControl1.resources
+C:\Users\91307\Desktop\工作\在途物料功能\InputDeliveryPlan\ImportDisassemblyData\obj\Release\In-transitImport.csproj.GenerateResource.Cache
+C:\Users\91307\Desktop\工作\在途物料功能\InputDeliveryPlan\ImportDisassemblyData\obj\Release\InputDeliveryPlan.dll
+C:\Users\91307\Desktop\工作\在途物料功能\InputDeliveryPlan\ImportDisassemblyData\obj\Release\InputDeliveryPlan.pdb
+C:\Users\91307\Desktop\工作\在途物料功能\InputDeliveryPlan\ImportDisassemblyData\obj\Release\IntransitImport.UserControl1.resources

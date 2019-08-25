@@ -1,0 +1,16 @@
+D:\开发代码\MZ_SAP_MES\MZ_MES_Test\bin\MZ_MES_Test.dll.config
+D:\开发代码\MZ_SAP_MES\MZ_MES_Test\bin\MZ_MES_Test.dll
+D:\开发代码\MZ_SAP_MES\MZ_MES_Test\bin\MZ_MES_Test.pdb
+D:\开发代码\MZ_SAP_MES\MZ_MES_Test\bin\Dynamic_Quote_Service.dll
+D:\开发代码\MZ_SAP_MES\MZ_MES_Test\bin\Dynamic_Quote_Service.pdb
+D:\开发代码\MZ_SAP_MES\MZ_MES_Test\obj\Debug\MZ_MES_Test.csprojResolveAssemblyReference.cache
+D:\开发代码\MZ_SAP_MES\MZ_MES_Test\obj\Debug\MZ_MES_Test.dll
+D:\开发代码\MZ_SAP_MES\MZ_MES_Test\obj\Debug\MZ_MES_Test.pdb
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_Test\bin\MZ_MES_Test.dll.config
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_Test\bin\MZ_MES_Test.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_Test\bin\MZ_MES_Test.pdb
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_Test\bin\Dynamic_Quote_Service.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_Test\bin\Dynamic_Quote_Service.pdb
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_Test\obj\Debug\MZ_MES_Test.csprojResolveAssemblyReference.cache
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_Test\obj\Debug\MZ_MES_Test.dll
+D:\工作\华磊\SAP_MES\MZ_SAP_MES\MZ_MES_Test\obj\Debug\MZ_MES_Test.pdb

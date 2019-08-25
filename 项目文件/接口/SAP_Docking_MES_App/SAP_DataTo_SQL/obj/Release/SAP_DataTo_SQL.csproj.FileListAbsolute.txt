@@ -1,0 +1,14 @@
+C:\Users\李玉森\Desktop\SAP_Docking_MES_App\SAP_DataTo_SQL\bin\Release\SAP_DataTo_SQL.dll
+C:\Users\李玉森\Desktop\SAP_Docking_MES_App\SAP_DataTo_SQL\bin\Release\SAP_DataTo_SQL.pdb
+C:\Users\李玉森\Desktop\SAP_Docking_MES_App\SAP_DataTo_SQL\obj\Release\SAP_DataTo_SQL.dll
+C:\Users\李玉森\Desktop\SAP_Docking_MES_App\SAP_DataTo_SQL\obj\Release\SAP_DataTo_SQL.pdb
+D:\工作\华磊\SAP_Docking_MES_App\SAP_DataTo_SQL\bin\Release\SAP_DataTo_SQL.dll
+D:\工作\华磊\SAP_Docking_MES_App\SAP_DataTo_SQL\bin\Release\SAP_DataTo_SQL.pdb
+D:\工作\华磊\SAP_Docking_MES_App\SAP_DataTo_SQL\obj\Release\SAP_DataTo_SQL.csprojResolveAssemblyReference.cache
+D:\工作\华磊\SAP_Docking_MES_App\SAP_DataTo_SQL\obj\Release\SAP_DataTo_SQL.dll
+D:\工作\华磊\SAP_Docking_MES_App\SAP_DataTo_SQL\obj\Release\SAP_DataTo_SQL.pdb
+C:\Users\91307\Desktop\工作\交接文件\接口\SAP_Docking_MES_App\SAP_DataTo_SQL\bin\Release\SAP_DataTo_SQL.dll
+C:\Users\91307\Desktop\工作\交接文件\接口\SAP_Docking_MES_App\SAP_DataTo_SQL\bin\Release\SAP_DataTo_SQL.pdb
+C:\Users\91307\Desktop\工作\交接文件\接口\SAP_Docking_MES_App\SAP_DataTo_SQL\obj\Release\SAP_DataTo_SQL.csprojResolveAssemblyReference.cache
+C:\Users\91307\Desktop\工作\交接文件\接口\SAP_Docking_MES_App\SAP_DataTo_SQL\obj\Release\SAP_DataTo_SQL.dll
+C:\Users\91307\Desktop\工作\交接文件\接口\SAP_Docking_MES_App\SAP_DataTo_SQL\obj\Release\SAP_DataTo_SQL.pdb
